@@ -17,5 +17,5 @@ def modifyfile(selected, filename)
 	File.open(filename, "w") { |file| file.puts new_contents }
 end
 
-filename = "list.txt".to_s
+filename = "list.txt"
 arraycreate(filename)
