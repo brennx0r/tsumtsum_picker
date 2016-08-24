@@ -1,2 +1,3 @@
 # tsumtsum_picker
-Helps me choose the next Tsum Tsum I purchase for cube toys!
+
+Every month at Disney I will buy a new tsumtsum to mark anniversaries - this will help me decide what to get. :-)
