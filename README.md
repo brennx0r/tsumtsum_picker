@@ -10,3 +10,4 @@ Below is the list of tsumtsum that have already been selected.
 |-------------------|----------------|
 | boba fett (clean) | August 2016    |
 | piglet            | September 2016 |
+| none - won a mess of stuffed animals at Disneyland during Cloud Summit | October 2016 |
