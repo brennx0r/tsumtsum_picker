@@ -6,8 +6,10 @@ Every month at Disney I will buy a new tsumtsum to mark anniversaries - this wil
 
 Below is the list of tsumtsum that have already been selected.
 
-| tsumtsum          | date           |
-|-------------------|----------------|
-| boba fett (clean) | August 2016    |
-| piglet            | September 2016 |
-| none - won a mess of stuffed animals at Disneyland during Cloud Summit | October 2016 |
+| tsumtsum                                                                |           date |
+|-------------------------------------------------------------------------|----------------|
+| boba fett (clean)                                                       |    August 2016 |
+| piglet                                                                  | September 2016 |
+| none - won a mess of stuffed animals at Disneyland during Cloud Summit  |   October 2016 |
+| chewbacca                                                               |  November 2016 |
+| tsum tsum advent calendar :heart:                                       |  December 2016 |
