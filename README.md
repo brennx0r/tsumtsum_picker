@@ -12,4 +12,4 @@ Below is the list of tsumtsum that have already been selected.
 | piglet                                                                  | September 2016 |
 | none - won a mess of stuffed animals at Disneyland during Cloud Summit  |   October 2016 |
 | chewbacca                                                               |  November 2016 |
-| tsum tsum advent calendar :heart:                                       |  December 2016 |
+| judy hopps                                                              |  December 2016 |
