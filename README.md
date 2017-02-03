@@ -13,3 +13,4 @@ Below is the list of tsumtsum that have already been selected.
 | none - won a mess of stuffed animals at Disneyland during Cloud Summit  |   October 2016 |
 | chewbacca                                                               |  November 2016 |
 | judy hopps                                                              |  December 2016 |
+| pua                                                                     |   January 2017 |
