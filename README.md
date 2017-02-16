@@ -14,3 +14,4 @@ Below is the list of tsumtsum that have already been selected.
 | chewbacca                                                               |  November 2016 |
 | judy hopps                                                              |  December 2016 |
 | pua                                                                     |   January 2017 |
+| ewok                                                                    |  February 2017 |
