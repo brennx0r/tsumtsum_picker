@@ -2,7 +2,6 @@ alien
 baymax
 cheshire cat 
 dory
-ewok
 maleficent
 mike
 nemo
