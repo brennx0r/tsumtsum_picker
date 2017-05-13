@@ -1,6 +1,5 @@
 alien
 baymax
-cheshire cat 
 dory
 maleficent
 mike

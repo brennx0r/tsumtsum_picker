@@ -16,3 +16,4 @@ Below is the list of tsumtsum that have already been selected.
 | pua                                                                     |   January 2017 |
 | ewok                                                                    |  February 2017 |
 | cheshire cat                                                            |     March 2017 |
+| bambi                                                                   |     April 2017 |
