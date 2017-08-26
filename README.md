@@ -20,3 +20,4 @@ Below is the list of tsumtsum that have already been selected.
 | moana                                                                   |       May 2017 |
 | thumper			                                                					  |      June 2017 |
 | dory                                                                    |      July 2017 |
+| baymax                                                                  |    August 2017 |
