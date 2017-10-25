@@ -18,7 +18,8 @@ Below is the list of tsumtsum that have already been selected.
 | cheshire cat                                                            |     March 2017 |
 | bambi                                                                   |     April 2017 |
 | moana                                                                   |       May 2017 |
-| thumper			              				  |      June 2017 |
+| thumper			              		                                    		  |      June 2017 |
 | dory                                                                    |      July 2017 |
 | baymax                                                                  |    August 2017 |
-| daredevil								  | September 2017 |
+| daredevil							                                              	  | September 2017 |
+| phasma                                                                  |   October 2017 |
